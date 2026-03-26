@@ -3,7 +3,7 @@ Form Sederhana
 # Tugas Form PHP Kelompok Kuman
 
 ## Anggota Kelompok:
-1. [Nama] 
-2. [Nama] 
-3. [Nama] 
-4. [Nama]
+1. Muhammad Mu'taz Syafiq 
+2. Sabilla Rahma Aulia
+3. Bilqis Nailatul Muna
+4. Tiara Anindita
